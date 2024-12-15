@@ -1,0 +1,10 @@
+{
+    "go_in": "Gå ind",
+    "not_enough_police": "Der skal være mindst %s betjente online for at kunne lave et røveri.",
+    "missing_item": "Du mangler en %s.",
+    "interaction": "Interaktion",
+    "stealing": "Stjæler...",
+    "robbery_failed": "Denne lokation er allerede blevet røvet eller noget gik galt.",
+    "location_robbed": "Lokation %d i hus %d er allerede blevet røvet.",
+    "exit": "Forlad"
+}
