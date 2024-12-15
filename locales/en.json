@@ -1,0 +1,10 @@
+{
+    "go_in": "Go inside",
+    "not_enough_police": "There must be at least %s police officers online to commit a robbery.",
+    "missing_item": "You are missing a %s.",
+    "interaction": "Interaction",
+    "stealing": "Stealing...",
+    "robbery_failed": "This location has already been robbed or something went wrong.",
+    "location_robbed": "Location %d in house %d has already been robbed.",
+    "exit": "Exit"
+}  
