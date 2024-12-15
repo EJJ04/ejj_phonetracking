@@ -10,7 +10,6 @@ files {
 }
 
 shared_scripts {
-    '@es_extended/imports.lua', 
     '@ox_lib/init.lua',
     'config.lua'          
 }
@@ -25,7 +24,6 @@ server_scripts {
 }
 
 dependencies {
-    'es_extended',  
     'ox_lib',
     'lb-phone',        
 }
