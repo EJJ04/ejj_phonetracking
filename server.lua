@@ -1,5 +1,3 @@
-ESX = exports["es_extended"]:getSharedObject()
-
 lib.callback.register('police:trackPhone', function(source, phoneNumber)
     phoneNumber = tostring(phoneNumber)
 
